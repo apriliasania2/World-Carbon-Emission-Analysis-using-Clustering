@@ -1,0 +1,199 @@
+Entity,Code,emissions_trading_system
+Afghanistan,AFG,No ETS
+Albania,ALB,No ETS
+Algeria,DZA,No ETS
+Andorra,AND,No ETS
+Angola,AGO,No ETS
+Antigua and Barbuda,ATG,No ETS
+Argentina,ARG,No ETS
+Armenia,ARM,No ETS
+Australia,AUS,No ETS
+Austria,AUT,Has an ETS
+Azerbaijan,AZE,No ETS
+Bahamas,BHS,No ETS
+Bahrain,BHR,No ETS
+Bangladesh,BGD,No ETS
+Barbados,BRB,No ETS
+Belarus,BLR,No ETS
+Belgium,BEL,Has an ETS
+Belize,BLZ,No ETS
+Benin,BEN,No ETS
+Bhutan,BTN,No ETS
+Bolivia,BOL,No ETS
+Bosnia and Herzegovina,BIH,No ETS
+Botswana,BWA,No ETS
+Brazil,BRA,No ETS
+Brunei,BRN,No ETS
+Bulgaria,BGR,Has an ETS
+Burkina Faso,BFA,No ETS
+Burundi,BDI,No ETS
+Cambodia,KHM,No ETS
+Cameroon,CMR,No ETS
+Canada,CAN,Has an ETS only at a sub-national level
+Cape Verde,CPV,No ETS
+Central African Republic,CAF,No ETS
+Chad,TCD,No ETS
+Chile,CHL,No ETS
+China,CHN,Has an ETS only at a sub-national level
+Colombia,COL,No ETS
+Comoros,COM,No ETS
+Congo,COG,No ETS
+Costa Rica,CRI,No ETS
+Cote d'Ivoire,CIV,No ETS
+Croatia,HRV,Has an ETS
+Cuba,CUB,No ETS
+Cyprus,CYP,Has an ETS
+Czechia,CZE,Has an ETS
+Democratic Republic of Congo,COD,No ETS
+Denmark,DNK,Has an ETS
+Djibouti,DJI,No ETS
+Dominica,DMA,No ETS
+Dominican Republic,DOM,No ETS
+East Timor,TLS,No ETS
+Ecuador,ECU,No ETS
+Egypt,EGY,No ETS
+El Salvador,SLV,No ETS
+Equatorial Guinea,GNQ,No ETS
+Eritrea,ERI,No ETS
+Estonia,EST,Has an ETS
+Eswatini,SWZ,No ETS
+Ethiopia,ETH,No ETS
+Fiji,FJI,No ETS
+Finland,FIN,Has an ETS
+France,FRA,Has an ETS
+Gabon,GAB,No ETS
+Gambia,GMB,No ETS
+Georgia,GEO,No ETS
+Germany,DEU,Has an ETS
+Ghana,GHA,No ETS
+Greece,GRC,Has an ETS
+Grenada,GRD,No ETS
+Guatemala,GTM,No ETS
+Guinea,GIN,No ETS
+Guinea-Bissau,GNB,No ETS
+Guyana,GUY,No ETS
+Haiti,HTI,No ETS
+Honduras,HND,No ETS
+Hungary,HUN,Has an ETS
+Iceland,ISL,Has an ETS
+India,IND,No ETS
+Indonesia,IDN,No ETS
+Iran,IRN,No ETS
+Iraq,IRQ,No ETS
+Ireland,IRL,Has an ETS
+Israel,ISR,No ETS
+Italy,ITA,Has an ETS
+Jamaica,JAM,No ETS
+Japan,JPN,No ETS
+Jordan,JOR,No ETS
+Kazakhstan,KAZ,Has an ETS
+Kenya,KEN,No ETS
+Kiribati,KIR,No ETS
+Kosovo,OWID_KOS,No ETS
+Kuwait,KWT,No ETS
+Kyrgyzstan,KGZ,No ETS
+Laos,LAO,No ETS
+Latvia,LVA,Has an ETS
+Lebanon,LBN,No ETS
+Lesotho,LSO,No ETS
+Liberia,LBR,No ETS
+Libya,LBY,No ETS
+Liechtenstein,LIE,Has an ETS
+Lithuania,LTU,Has an ETS
+Luxembourg,LUX,Has an ETS
+Madagascar,MDG,No ETS
+Malawi,MWI,No ETS
+Malaysia,MYS,No ETS
+Maldives,MDV,No ETS
+Mali,MLI,No ETS
+Malta,MLT,Has an ETS
+Marshall Islands,MHL,No ETS
+Mauritania,MRT,No ETS
+Mauritius,MUS,No ETS
+Mexico,MEX,No ETS
+Micronesia (country),FSM,No ETS
+Moldova,MDA,No ETS
+Monaco,MCO,No ETS
+Mongolia,MNG,No ETS
+Montenegro,MNE,Has an ETS
+Morocco,MAR,No ETS
+Mozambique,MOZ,No ETS
+Myanmar,MMR,No ETS
+Namibia,NAM,No ETS
+Nauru,NRU,No ETS
+Nepal,NPL,No ETS
+Netherlands,NLD,Has an ETS
+New Zealand,NZL,Has an ETS
+Nicaragua,NIC,No ETS
+Niger,NER,No ETS
+Nigeria,NGA,No ETS
+North Korea,PRK,No ETS
+North Macedonia,MKD,No ETS
+Norway,NOR,Has an ETS
+Oman,OMN,No ETS
+Pakistan,PAK,No ETS
+Palau,PLW,No ETS
+Palestine,PSE,No ETS
+Panama,PAN,No ETS
+Papua New Guinea,PNG,No ETS
+Paraguay,PRY,No ETS
+Peru,PER,No ETS
+Philippines,PHL,No ETS
+Poland,POL,Has an ETS
+Portugal,PRT,Has an ETS
+Puerto Rico,PRI,No ETS
+Qatar,QAT,No ETS
+Romania,ROU,Has an ETS
+Russia,RUS,No ETS
+Rwanda,RWA,No ETS
+Saint Kitts and Nevis,KNA,No ETS
+Saint Lucia,LCA,No ETS
+Saint Vincent and the Grenadines,VCT,No ETS
+Samoa,WSM,No ETS
+San Marino,SMR,No ETS
+Sao Tome and Principe,STP,No ETS
+Saudi Arabia,SAU,No ETS
+Senegal,SEN,No ETS
+Serbia,SRB,No ETS
+Seychelles,SYC,No ETS
+Sierra Leone,SLE,No ETS
+Singapore,SGP,No ETS
+Slovakia,SVK,Has an ETS
+Slovenia,SVN,Has an ETS
+Solomon Islands,SLB,No ETS
+Somalia,SOM,No ETS
+South Africa,ZAF,No ETS
+South Korea,KOR,Has an ETS
+South Sudan,SSD,No ETS
+Spain,ESP,Has an ETS
+Sri Lanka,LKA,No ETS
+Sudan,SDN,No ETS
+Suriname,SUR,No ETS
+Sweden,SWE,Has an ETS
+Switzerland,CHE,Has an ETS
+Syria,SYR,No ETS
+Taiwan,TWN,No ETS
+Tajikistan,TJK,No ETS
+Tanzania,TZA,No ETS
+Thailand,THA,No ETS
+Togo,TGO,No ETS
+Tonga,TON,No ETS
+Trinidad and Tobago,TTO,No ETS
+Tunisia,TUN,No ETS
+Turkey,TUR,No ETS
+Turkmenistan,TKM,No ETS
+Tuvalu,TUV,No ETS
+Uganda,UGA,No ETS
+Ukraine,UKR,No ETS
+United Arab Emirates,ARE,No ETS
+United Kingdom,GBR,Has an ETS
+United States,USA,Has an ETS only at a sub-national level
+Uruguay,URY,No ETS
+Uzbekistan,UZB,No ETS
+Vanuatu,VUT,No ETS
+Venezuela,VEN,No ETS
+Vietnam,VNM,No ETS
+Western Sahara,ESH,No ETS
+Yemen,YEM,No ETS
+Zambia,ZMB,No ETS
+Zimbabwe,ZWE,No ETS
